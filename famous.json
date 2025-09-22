@@ -83,8 +83,22 @@
       "height_inches": 81,
       "author": false,
       "tv show": "Spongebob Squarepants"
-  }
+  },
+    "Leonardo": {
+        "full name": "Leonardo DiCaprio",
+        "other names": [
+            "Leo",
+            "LDC"
+        ],
+        "wikipedia":"https://en.wikipedia.org/wiki/Leonardo_DiCaprio",
+        "born": 1996,
+        "place of birth": "Los Angeles, California",
+        "height_inches": 72,
+        "author": false,
+        "tv show": "Shutter Island"
+    }
 }
+
 
 
 
