@@ -96,7 +96,21 @@
         "author": false,
         "tv show": "The Idol",
         "spouse": null
-    }
+    },
+     "Future": {
+            "full name": "Nayvadius DeMun Cash",
+            "other names": [
+              "Pluto",
+              "Hndrxx",
+              "Meathead"
+         ],
+         "wikipedia": "https://en.wikipedia.org/wiki/Future_(rapper)",
+         "born": 1983,
+         "place of birth": "Atlanta, Georgia",
+         "height_inches": 74,
+         "author": false,
+         "tv show": null
+   }
 }
 
 
